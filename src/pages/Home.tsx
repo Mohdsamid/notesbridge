@@ -190,7 +190,7 @@ const Home = () => {
             <div className="mb-2 inline-flex items-center gap-2 rounded-full glass px-3 py-1 text-xs font-semibold uppercase tracking-wider text-primary">
               <TrendingUp className="h-3 w-3" /> Trending
             </div>
-            <h2 className="text-3xl font-bold sm:text-4xl">Fresh from the nest</h2>
+            <h2 className="text-3xl font-bold sm:text-4xl">Fresh from the NotesBridge</h2>
           </div>
           <Link to="/notes" className="group inline-flex items-center gap-1 text-sm font-semibold text-gradient hover:underline">
             View all <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
