@@ -121,7 +121,7 @@ const About = () => {
             </div>
             <div className="text-center md:text-left">
               <h3 className="text-2xl font-bold">Punam Sarode</h3>
-              <p className="mb-3 text-lg font-medium text-gradient">Developer & Presentator</p>
+              <p className="mb-3 text-lg font-medium text-gradient">Developer &amp; Presentator</p>
               <div className="mb-4 flex flex-wrap justify-center gap-3 text-sm text-muted-foreground md:justify-start">
                 <span className="flex items-center gap-1.5"><GraduationCap className="h-4 w-4" /> BCA — 6th Semester</span>
                 <span className="flex items-center gap-1.5"><MapPin className="h-4 w-4" /> IPS College, Chhindwara</span>
