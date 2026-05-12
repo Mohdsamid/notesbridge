@@ -281,7 +281,7 @@ const Home = () => {
                 <Code className="h-3.5 w-3.5" /> About the developer
               </div>
               <h2 className="mb-3 text-3xl font-bold md:text-4xl">
-                Crafted by <span className="text-gradient">Alisha Naaz</span>
+                Crafted by <span className="text-gradient">Alisha Naaz & Punam Sarode</span>
               </h2>
               <p className="mb-2 text-lg font-medium text-muted-foreground">Full Stack Developer</p>
               <p className="mb-5 max-w-xl leading-relaxed text-muted-foreground">

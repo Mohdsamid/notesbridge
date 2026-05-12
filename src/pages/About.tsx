@@ -81,7 +81,7 @@ const About = () => {
           ))}
         </div>
       </section>
-
+          {/*Alishaa  */}
       <section className="container py-10 pb-16">
         <h2 className="mb-6 text-2xl font-bold">Meet the Developer</h2>
         <div className="rounded-3xl glass-strong p-8 shadow-elegant md:p-10">
@@ -95,6 +95,33 @@ const About = () => {
             <div className="text-center md:text-left">
               <h3 className="text-2xl font-bold">Alisha Naaz</h3>
               <p className="mb-3 text-lg font-medium text-gradient">Full Stack Developer</p>
+              <div className="mb-4 flex flex-wrap justify-center gap-3 text-sm text-muted-foreground md:justify-start">
+                <span className="flex items-center gap-1.5"><GraduationCap className="h-4 w-4" /> BCA — 6th Semester</span>
+                <span className="flex items-center gap-1.5"><MapPin className="h-4 w-4" /> IPS College, Chhindwara</span>
+              </div>
+              <p className="text-sm leading-relaxed text-muted-foreground">
+                Passionate about building thoughtful, beautiful and useful web apps.
+                NotesBridge reflects a love for clean UI, solid engineering and tools that
+                actually solve real problems for fellow students.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+            {/* Punam */}
+         <section className="container  pb-16">
+        {/* <h2 className="mb-6 text-2xl font-bold">Meet the Developer</h2> */}
+        <div className="rounded-3xl glass-strong p-8 shadow-elegant md:p-10">
+          <div className="grid items-center gap-8 md:grid-cols-[auto,1fr]">
+            <div className="relative mx-auto md:mx-0">
+              <div className="absolute inset-0 animate-blob rounded-3xl bg-gradient-hero blur-2xl opacity-50" />
+              <div className="relative flex h-32 w-32 items-center justify-center rounded-3xl bg-gradient-hero shadow-glow">
+                <span className="text-5xl font-black text-primary-foreground">A</span>
+              </div>
+            </div>
+            <div className="text-center md:text-left">
+              <h3 className="text-2xl font-bold">Punam Sarode</h3>
+              <p className="mb-3 text-lg font-medium text-gradient">Developer & Presentator</p>
               <div className="mb-4 flex flex-wrap justify-center gap-3 text-sm text-muted-foreground md:justify-start">
                 <span className="flex items-center gap-1.5"><GraduationCap className="h-4 w-4" /> BCA — 6th Semester</span>
                 <span className="flex items-center gap-1.5"><MapPin className="h-4 w-4" /> IPS College, Chhindwara</span>
