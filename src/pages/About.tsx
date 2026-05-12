@@ -116,7 +116,7 @@ const About = () => {
             <div className="relative mx-auto md:mx-0">
               <div className="absolute inset-0 animate-blob rounded-3xl bg-gradient-hero blur-2xl opacity-50" />
               <div className="relative flex h-32 w-32 items-center justify-center rounded-3xl bg-gradient-hero shadow-glow">
-                <span className="text-5xl font-black text-primary-foreground">A</span>
+                <span className="text-5xl font-black text-primary-foreground">P</span>
               </div>
             </div>
             <div className="text-center md:text-left">
